@@ -1,0 +1,15 @@
+#
+# Dictionary properties.
+#
+
+fsa.dict.separator=+
+fsa.dict.encoding=iso-8859-2
+
+fsa.dict.encoder=suffix
+
+fsa.dict.frequency-included=true
+
+fsa.dict.speller.locale=pl_PL
+fsa.dict.speller.ignore-diacritics=true
+fsa.dict.speller.equivalent-chars=x ź, l ł, u ó, ó u
+fsa.dict.speller.replacement-pairs=ź zi, ł eu, ć ci, ć dż, ć dź, ć dz, c dz, ch h, ci ć, cz czy, dź ć, dź dzi, dż ć, dz ć, dzi dź, edzil ędził, ę em, ę en, ei eja, eja ei, em ę, en ę, eu ł, h ch, he chę, śi ś, ii ija, ija ii, iosc ość, ise się, loz łos, ni ń, ńi ń, ń ni, ą oł, oł ą, oi oja, oja oi, ą om, om ą, ą on, on ą, ru kró, ż rz, rz ż, rz sz, scia ścią, ś si, si ś, sić ść, s sną, sz ż, sz rz, tro rot, u y, wu wy, yi yja, yja yi, zal rzał, zekac rzekać, zi ź, zl azł, z żn, z rz, chłopcowi chłopcu, bratowi bratu, aleji alei, lubieć lubić, nei nie, źmie zmie, piatek piątek, pokuj pokój, poszłem poszedłem, prosze proszę, rząda żąda, sa są, sei się, standart standard, trzcionk czcionk, szłem szedłem, pry przy

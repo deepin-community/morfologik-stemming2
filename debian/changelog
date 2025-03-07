@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+morfologik-stemming2 (2.1.6-2) unstable; urgency=medium
 
-  * Initial release
+  * Source only upload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sudip Mukherjee <sudipm.mukherjee@gmail.com>  Wed, 28 Oct 2020 12:06:47 +0000
+
+morfologik-stemming2 (2.1.6-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #972707)
+
+ -- Sudip Mukherjee <sudipm.mukherjee@gmail.com>  Fri, 23 Oct 2020 22:43:27 +0100

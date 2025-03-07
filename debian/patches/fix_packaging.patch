@@ -1,0 +1,62 @@
+Description: Fix packaging
+
+Author: Sudip Mukherjee <sudipm.mukherjee@gmail.com>
+Forwarded: not-needed
+
+---
+
+--- morfologik-stemming-2.1.6.orig/morfologik-fsa-builders/pom.xml
++++ morfologik-stemming-2.1.6/morfologik-fsa-builders/pom.xml
+@@ -13,7 +13,7 @@
+   </parent>
+ 
+   <artifactId>morfologik-fsa-builders</artifactId>
+-  <packaging>bundle</packaging>
++  <packaging>jar</packaging>
+ 
+   <name>Morfologik FSA (Builder)</name>
+   <description>Morfologik Finite State Automata Builder</description>
+--- morfologik-stemming-2.1.6.orig/morfologik-fsa/pom.xml
++++ morfologik-stemming-2.1.6/morfologik-fsa/pom.xml
+@@ -13,7 +13,7 @@
+   </parent>
+ 
+   <artifactId>morfologik-fsa</artifactId>
+-  <packaging>bundle</packaging>
++  <packaging>jar</packaging>
+ 
+   <name>Morfologik FSA (Traversal)</name>
+   <description>Morfologik Finite State Automata Traversal.</description>
+--- morfologik-stemming-2.1.6.orig/morfologik-polish/pom.xml
++++ morfologik-stemming-2.1.6/morfologik-polish/pom.xml
+@@ -13,7 +13,7 @@
+   </parent>
+ 
+   <artifactId>morfologik-polish</artifactId>
+-  <packaging>bundle</packaging>
++  <packaging>jar</packaging>
+ 
+   <name>Morfologik Stemming (Polish Dictionary)</name>
+   <description>Morfologik Stemming (Polish Dictionary)</description>
+--- morfologik-stemming-2.1.6.orig/morfologik-speller/pom.xml
++++ morfologik-stemming-2.1.6/morfologik-speller/pom.xml
+@@ -13,7 +13,7 @@
+   </parent>
+ 
+   <artifactId>morfologik-speller</artifactId>
+-  <packaging>bundle</packaging>
++  <packaging>jar</packaging>
+ 
+   <name>Morfologik Speller</name>
+   <description>Morfologik Speller</description>
+--- morfologik-stemming-2.1.6.orig/morfologik-stemming/pom.xml
++++ morfologik-stemming-2.1.6/morfologik-stemming/pom.xml
+@@ -13,7 +13,7 @@
+   </parent>
+ 
+   <artifactId>morfologik-stemming</artifactId>
+-  <packaging>bundle</packaging>
++  <packaging>jar</packaging>
+ 
+   <name>Morfologik Stemming APIs</name>
+   <description>Morfologik Stemming APIs.</description>
