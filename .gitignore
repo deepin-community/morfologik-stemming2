@@ -1,0 +1,12 @@
+*.versionsBackup
+tmp/
+dist/
+target/
+*.patch
+.eclipse/
+.project
+.classpath
+.settings
+*.name
+*.iml
+.idea/
